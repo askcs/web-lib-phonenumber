@@ -1,14 +1,14 @@
 {
-  "name": "webpaige-lib-phonenumber",
+  "name": "web-lib-phonenumber",
   "version": "1.1.0",
-  "homepage": "https://github.com/askcs/webpaige-lib-phonenumber",
+  "homepage": "https://github.com/askcs/web-lib-phonenumber",
   "authors": [
     "Cengizism <culusoy@ask-cs.com>"
   ],
-  "description": "Google phone number validation library as bower dep. in webpaige projects.",
+  "description": "Google phone number validation library as bower dep. in web projects.",
   "main": "libphonenumber.js",
   "keywords": [
-    "webpaige",
+    "web",
     "phone",
     "number",
     "validation"
